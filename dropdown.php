@@ -5,6 +5,7 @@
     <title>Dropdown Test</title>
 </head>
 <body>
+    <h1>Hello there</h1>
 <?php
 // connect
 $db = new PDO('mysql:host=localhost;dbname=barrieEats', 'root', '');
